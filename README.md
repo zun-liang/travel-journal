@@ -16,7 +16,7 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 
 ### Links
 
-- Live Site URL: [here](https://zun-liang.github.io/)
+- Live Site URL: [here](https://zun-liang.github.io/travel-journal/)
 
 ### Built with
 
